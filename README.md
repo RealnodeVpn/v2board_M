@@ -4,7 +4,7 @@
 ## 使用教程
 安装python模块库
 
-pip install -r requirements.txt
+pip install pymysql
 
 前台运行脚本
 
